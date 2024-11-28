@@ -9,4 +9,4 @@ more new feature two
 
 another feature commit
 
-# not add this
+# this was changed
