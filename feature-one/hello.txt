@@ -6,3 +6,7 @@ add new features
 # not include this again in social branch
 
 more new feature two
+
+another feature commit
+
+# not add this
